@@ -8,7 +8,7 @@ def create_tfidf_matrix(
     # Load processed documents
     df = pd.read_csv(input_file)
 
-    # Extract the cleaned text
+    # Get cleaned text
     documents = df["processed_text"]
 
     # Create TF-IDF vectorizer
@@ -18,11 +18,8 @@ def create_tfidf_matrix(
         max_df=0.95
     )
 
-    # Convert documents into a TF-IDF matrix
+    # Convert text to TF-IDF
     tfidf_matrix = vectorizer.fit_transform(documents)
-
-    # Get vocabulary
-    feature_names = vectorizer.get_feature_names_out()
 
     print("TF-IDF created successfully")
     print("Number of documents:", tfidf_matrix.shape[0])

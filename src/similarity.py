@@ -3,44 +3,37 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 
 def find_similar_documents(
-    latent_matrix,
+    matrix,
     input_file="data/processed_documents.csv",
     document_index=0,
     top_n=5
 ):
-    # Load processed documents so we can display
-    # the category and text of the results.
+    # Load document data
     df = pd.read_csv(input_file)
 
-    # Calculate cosine similarity between the selected
-    # document and every document in the latent space.
+    # Calculate similarities
     similarities = cosine_similarity(
-        latent_matrix[document_index].reshape(1, -1),
-        latent_matrix
+        matrix[document_index].reshape(1, -1),
+        matrix
     )[0]
 
-    # Create a copy of the document data.
     results = df.copy()
-
-    # Add the similarity score for every document.
     results["similarity"] = similarities
 
-    # Remove the query document itself.
+    # Remove the query itself
     results = results[results.index != document_index]
 
-    # Sort from highest similarity to lowest similarity.
+    # Highest similarity first
     results = results.sort_values(
         by="similarity",
         ascending=False
     )
 
-    # Display the query document.
     print("Query document:")
     print(df.iloc[document_index]["processed_text"][:500])
 
     print("\nTop similar documents:\n")
 
-    # Display the top results.
     for rank, (_, row) in enumerate(
         results.head(top_n).iterrows(),
         start=1
