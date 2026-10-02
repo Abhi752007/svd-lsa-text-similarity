@@ -1,7 +1,10 @@
 import pandas as pd
 from sklearn.datasets import fetch_20newsgroups
 
-# Categories we selected for the project
+from preprocessing import preprocess_text
+
+
+# Categories we want to use for the project
 categories = [
     "comp.graphics",
     "rec.sport.baseball",
@@ -10,7 +13,16 @@ categories = [
     "talk.politics.misc",
 ]
 
-# Load the dataset
+
+# Number of usable documents required from each category
+documents_per_category = 200
+
+
+# Download/load the 20 Newsgroups training dataset.
+#
+# We remove headers, footers, and quoted replies because these can
+# contain metadata or repeated text that can artificially affect
+# document similarity.
 dataset = fetch_20newsgroups(
     subset="train",
     categories=categories,
@@ -19,26 +31,40 @@ dataset = fetch_20newsgroups(
     random_state=42,
 )
 
-# Number of valid documents required from each category
-documents_per_category = 200
 
 rows = []
 
-# Select 200 valid documents from each category
+
+# Process each category separately so that the final dataset
+# contains exactly the same number of usable documents per category.
 for category_id, category in enumerate(dataset.target_names):
 
     count = 0
 
+    # Go through the documents belonging to the current category.
     for text, target in zip(dataset.data, dataset.target):
 
-        # Only consider documents belonging to this category
+        # Skip documents belonging to other categories.
         if target != category_id:
             continue
 
-        # Skip missing or empty documents
+        # Skip missing or invalid raw documents.
         if not isinstance(text, str) or not text.strip():
             continue
 
+        # Apply the SAME preprocessing used by the main
+        # preprocessing stage.
+        cleaned_text = preprocess_text(text)
+
+        # A document may contain text initially but become empty
+        # after preprocessing. Do not include such documents.
+        if not cleaned_text:
+            continue
+
+        # Store the original text and category.
+        #
+        # The processed text will be generated again by
+        # preprocessing.py and saved separately.
         rows.append({
             "document_id": len(rows),
             "category": category,
@@ -47,18 +73,23 @@ for category_id, category in enumerate(dataset.target_names):
 
         count += 1
 
-        # Stop once we have 200 valid documents
+        # Stop only after we have enough documents that are
+        # confirmed to survive preprocessing.
         if count == documents_per_category:
             break
 
     print(f"{category}: {count} valid documents selected")
 
-# Convert to a DataFrame
+
+# Convert the selected documents into a DataFrame.
 df = pd.DataFrame(rows)
 
-# Save the dataset
+
+# Save the raw selected documents.
 df.to_csv("data/documents.csv", index=False)
 
+
+# Display useful information for verification.
 print("\nDataset created successfully")
 print("Total documents:", len(df))
 

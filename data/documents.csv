@@ -1298,8 +1298,7 @@ a week per group.  I kind of like the convenience of having one big forum
 for discussing all aspects of graphics.  Anyone else feel this way?
 Just curious.
 "
-72,comp.graphics,------------------------------------
-73,comp.graphics,"
+72,comp.graphics,"
 I've got the 6.0 spec (obviously since I quoted it in my last posting). 
 My gripe about TIFF is that it's far too complicated and nearly
 infinitely easier to write than to read, which I think hurts your
@@ -1311,16 +1310,16 @@ trimmed significantly- and then it wouldn't be TIFF anymore.  They
 keep trying to cut it back, but it's late now.  Maybe they >will< fix it,
 and change that magic number to signify the lack of compatibility. 
 That would probably make me happy."
-74,comp.graphics,"As I understand it, THe difference between 3D Studio 2.00 and 2.01 is mainly
+73,comp.graphics,"As I understand it, THe difference between 3D Studio 2.00 and 2.01 is mainly
 in the IPAS interface, along with a few small bug fixes. The IPAS code runs
 a lot faster in the newest version.
 "
-75,comp.graphics,"
+74,comp.graphics,"
 Douglas Adams once said (paraphrased from memory): ""I just picked it.  It
 seemed like the sort of number you wouldn't be afraid to take home to meet
 your parents.  Nice and even, perfectly normal.""
 "
-76,comp.graphics,"****************************   SPHINX   ***************************
+75,comp.graphics,"****************************   SPHINX   ***************************
 
 	Sphinx is a user-friendly, state-of-the-art image processing
 and analysis package that runs across a spectrum of high performance 
@@ -1420,9 +1419,9 @@ de Meteorologie Dynamique.
 
    IF YOU ARE INTERESTED IN KEEPING ""SPHINX"", SEND US YOUR EMAIL
    AND YOU WILL RECEIVE NEWS ABOUT THE PACKAGE EVOLUTION."
-77,comp.graphics,"Anybody know of an IGES Viewer for DOS/Windows? I need to be able to display 
+76,comp.graphics,"Anybody know of an IGES Viewer for DOS/Windows? I need to be able to display 
 ComputerVision IGES files on a PC running Windows 3.1. Thanks in advance."
-78,comp.graphics,"I am interested in a 2d/3d graphics library which will allow our design
+77,comp.graphics,"I am interested in a 2d/3d graphics library which will allow our design
 team to write graphics software for Unix workstations and be as portable as 
 possible.  Eventually this software will have to be moved to Microsoft
 Windows.  It is my opinion that a good API with hooks to PEX underneath
@@ -1433,7 +1432,7 @@ HOOPS from Ithaca Software?  I would appreciate any comments.
 
 - Claye Hart
 "
-79,comp.graphics,"
+78,comp.graphics,"
 
 
 Just as a matter of interest, a self-promo computer graphics sequence 
@@ -1441,8 +1440,8 @@ that one of the local TV stations used to play quite a lot a couple of
 years ago showed a 3D flyover of Australia from the West coast to the
 East.  The clouds were quite recognisable as fuzzy, flat, white
 Mandlebrot sets!!"
-80,comp.graphics,WHATS THIS  680x1024 256 color mode? Asking a lot of your hardware ?
-81,comp.graphics,"I have a few reprints left of chapters from my book ""Visions of the             
+79,comp.graphics,WHATS THIS  680x1024 256 color mode? Asking a lot of your hardware ?
+80,comp.graphics,"I have a few reprints left of chapters from my book ""Visions of the             
 Future"".  These include reprints of 3 chapters probably of interest to          
 readers of this forum, including:                                               
                                                                                 
@@ -1457,7 +1456,7 @@ I'd be happy to send out free reprints to researchers for scholarly
 purposes, until the reprints run out.                                           
                                                                                 
 Just send me your name and address.                                             "
-82,comp.graphics,"When using Photoshop is there anyway to get an elliptical dot for the
+81,comp.graphics,"When using Photoshop is there anyway to get an elliptical dot for the
 halftone screen rather than a round dot ? My printer would prefer an
 elliptical dot, but I'm not sure how to set it up. I'm sending from a Mac
 IIci to a Linotronic L300 imagesetter and I am using Photoshop 2.0.1 to
@@ -1469,7 +1468,7 @@ Michael (Unscene)
 
 
 Michael Maier, Computer Artist, ANL  |  [|Ú]---*Z* Glued to the veiw.      "
-83,comp.graphics,"I've got a 386 20Hz computer which is under warranty and my Trident
+82,comp.graphics,"I've got a 386 20Hz computer which is under warranty and my Trident
 8900C video card is starting to play-up (surprise, surprise). Therefore
 I'm going to try to exchange it for a better card.
 
@@ -1477,7 +1476,7 @@ The BIG Question is:
 
 Which video card is high quality and with an
 acceptable price tag (on student budget) ???"
-84,comp.graphics,"
+83,comp.graphics,"
 : > Does anyone have any  other suggestions where the 42 came from?
 
 Yep, here's a theory that I once heard bandied around.  Rather than thinking
@@ -1489,7 +1488,7 @@ Two for Tea, For Tea Two.
 Peter
 
 "
-85,comp.graphics,"Hi there
+84,comp.graphics,"Hi there
 
 I am very interested in Rayshade 4.00. I have managed to make a chessboard
 for Rayshade. Unfortunately I still have to do the knight (horse). Any ideas?
@@ -1509,7 +1508,7 @@ Is there anybody else using rayshade on non-Unix systems?
 How fast does Unix render?
 
 Thanks"
-86,comp.graphics,"
+85,comp.graphics,"
 Tommy Frandsen's VGAlib (which is probably what you're talking about)
 will do the standard VGA modes, some tweaked modes and then the Tseng
 ET4000 Super VGA modes. I have an ET4000 and I'm viewing GIF's at
@@ -1524,17 +1523,17 @@ mode. Haven't tried it though...
 
 (Btw, my version of VGAlib is 1.2.)
 "
-87,comp.graphics,"
+86,comp.graphics,"
 A book that I can somewhat recommend is :
                      
                      Pratical Image Processing in C
                      by Craig A. Lindley
                      published by Wiley"
-88,comp.graphics,"Is the "".3ds"" file format for Autodesk's 3D Animation Studio available?
+87,comp.graphics,"Is the "".3ds"" file format for Autodesk's 3D Animation Studio available?
 
 Thanks,
 Gary"
-89,comp.graphics,"Hello netters
+88,comp.graphics,"Hello netters
 
 Sorry, I don't know if this is the right way of doing this kind of thing,
 probably should be a CFV, but since I don't have tha ability to create a 
@@ -1546,16 +1545,16 @@ programming and graphics programs are discused here. What I'd like is a
 comp.graphics.programmer news group.
 What do you other think.
 "
-90,comp.graphics,"
+89,comp.graphics,"
 Wrong...the major improvements for 2.01 and 2.01a are in the use of IPAS routines
 for 3d studio.  They have increased in speed anywhere from 30-200% depending
 on which ones you use."
-91,comp.graphics,"What is the phone number for Alias?
+90,comp.graphics,"What is the phone number for Alias?
 A toll-free number is preferred, if available.
 
 Thanks
 "
-92,comp.graphics,"
+91,comp.graphics,"
 
  Opps!  typed in the phone numbers wrong.  Here are the correct numbers.
 
@@ -1567,7 +1566,7 @@ Thanks
 
                                        505-277-6563
 "
-93,comp.graphics,"At the moment i'm trying to grab a portion of a Starbase screen, and store it
+92,comp.graphics,"At the moment i'm trying to grab a portion of a Starbase screen, and store it
 in an area of memory. The data needs to be in a 24-bit format (which
 shouldn't be a problem as the app is running on a 24 bit screen), though
 i'm not too fussy about the exact format.
@@ -1588,7 +1587,7 @@ Martin
 
 --
 ---------------------------------------------------------------------------"
-94,comp.graphics,"I'm looking for a database called ""Micro World Data Bank II"", a database
+93,comp.graphics,"I'm looking for a database called ""Micro World Data Bank II"", a database
 with digital map information containing 178,068 latitude, longitude points.
 It is said to be in the public domain. If anyone knows a place where I can
 get it (preferably FTP/gopher/mailserver etc.; otherwise snail mail) please
@@ -1601,7 +1600,7 @@ program (preferably PD), I would be very interested.
 
 Replies by e-mail please, directly to me, I don't read this group regularly.
 If there's interest I'll post a summary, of course."
-95,comp.graphics,"
+94,comp.graphics,"
 
 I think APDA has something called MacWireFrame which is a full
 wire-frame (and supposedly hidden-line removal) library.
@@ -1614,7 +1613,7 @@ I can relate to that
 					/h+
 -- 
  -- Jon W{tte, h+@nada.kth.se, Mac Hacker Deluxe --"
-96,comp.graphics,"
+95,comp.graphics,"
 
 
 
@@ -1625,7 +1624,7 @@ Yes.
 I don't know where Douglas Adams took it from, but I'm pretty sure he's
 the one who launched it (in the Guide). Since then it's been showing up 
 all over the place."
-97,comp.graphics,"Does anybody know where I can get, via anonymous ftp or otherwise, a PostScript
+96,comp.graphics,"Does anybody know where I can get, via anonymous ftp or otherwise, a PostScript
 driver for the graphics libraries GINO verison 3.0A ?
 
 We are runnining on a VAX/VMS and are looking for a way outputing our plots to a
@@ -1633,7 +1632,7 @@ PostScript file...
 
 
 Thanks in advance..."
-98,comp.graphics,"Hi ... Recently I found XV for MS-DOS in a subdirectory of GNU-CC (GNUISH). I 
+97,comp.graphics,"Hi ... Recently I found XV for MS-DOS in a subdirectory of GNU-CC (GNUISH). I 
 use frequently XV on a Sun Spark Station 1 and I never had problems, but when I
 start it on my computer with -h option, it display the help menu and when I
 start it with a GIF-File my Hard disk turns 2 or 3 seconds and the prompt come
@@ -1656,7 +1655,7 @@ Do somenone know the solution to run XV ??? any help would be apprecied..
 *  Suisse 							    *
 *		     !!!! Enjoy COMPUTER !!!!			    *
 *								    *"
-99,comp.graphics,"Hi Everyone ::
+98,comp.graphics,"Hi Everyone ::
 
 I am  looking for  some software  called SHADOW as 
 far as  I know  its a   simple  raytracer  used in
@@ -1671,14 +1670,14 @@ I would love to hear from you.
 PS I think SHADOW was written by a F Cerrina?
 
 Anyone any ideas?"
-100,comp.graphics,"Does anyone know the phone number to a place where i can get
+99,comp.graphics,"Does anyone know the phone number to a place where i can get
 a VGA passthrough?
 
 	I want to hook up my VGA card to my XGA card (whcih you can can).
 All I need is the cable that connects them.  It is the same type of
 cable that you would connect from your VGA card to say a Video Blaster
 or something."
-101,comp.graphics,"Contact Signaware Corp
+100,comp.graphics,"Contact Signaware Corp
 800-4583820
 800 6376564
 
@@ -1697,14 +1696,14 @@ Could someone tell me if there is a database of handwriting signature
 images available for evaluating signature verification systems.
 
 Thanks."
-102,comp.graphics,"AT&T also puts out two new products for windows, Model numbers elude me now,
+101,comp.graphics,"AT&T also puts out two new products for windows, Model numbers elude me now,
 a 15 bit video board with framegrabber and a 16bit with same. Yesterday I
 was looking at a product at a local Software ETC store. Media Vision makes
 a 15bit (32,768 color) frame capture board that is stand alone and doesnot
 use the feature connector on your existing video card. It claims upto 30 fps
 live capture as well as single frame from either composite NTSC or s-video
 in and out."
-103,comp.graphics,"
+102,comp.graphics,"
 What kind of polygons?  Shaded?  Texturemapped?  Hm?  More comes into play with
 fast routines than just ""polygons"".  It would be nice to know exaclty what
 system (VGA is a start, but what processor?) and a few of the specifics of the
@@ -1712,7 +1711,7 @@ implementation.  You need to give  more info if you want to get any answers! :P
 
                                   - Ian Romanick
                                     Dancing Fool of Epsilon"
-104,comp.graphics,"
+103,comp.graphics,"
 How about brass or silver?  I've seen real chessboards that use that material.
 
 
@@ -1724,20 +1723,20 @@ raytracer - is it compatible enough for your chessboard?
       seem like he's running on all thrusters!"" -- Leonard McCoy
 
      ""A guess?  You, Spock?  That's extraordinary!"" -- James T. Kirk"
-105,comp.graphics,"
+104,comp.graphics,"
 I went back and looked at the review again.  They claim there were
 significant differences in manipulating a 27 meg test file, but with
 smaller files, the two platforms were the about the same.  David
 "
-106,comp.graphics,"There is a program called Graphic Workshop you can FTP from
+105,comp.graphics,"There is a program called Graphic Workshop you can FTP from
 wuarchive.  The file is in the msdos/graphics directory and
 is called ""grfwk61t.zip.""  This program should od everthing
 you need.
 
 -- "
-107,comp.graphics,"
+106,comp.graphics,"
 	Why don't you consider PHIGS in X or PEX lib?"
-108,comp.graphics,"Hi,
+107,comp.graphics,"Hi,
 
 I'm hoping someone out there will be able to help our computer science
 project group. We are doing computer science honours, and our project
@@ -1753,7 +1752,7 @@ If anyone has any suggestions/algorithms/bug-free ready to compile C code :)
 that might help us, it would be much appreciated.
 
 Thanks in advance,"
-109,comp.graphics,"
+108,comp.graphics,"
 Basically, there are two algorithms determining whether a point is inside,
 outside or on the polygon. The first one is Ray (or half line) method. In
 this method, you can draw any ray, if the number of the intersection point
@@ -1769,7 +1768,7 @@ it is on the polygon. Otherwise it is outside.
 My experience tells the second method is relible.
 
 Hope this helps."
-110,comp.graphics,"A very kind soul has mailed me this reply for the bugs in CView.
+109,comp.graphics,"A very kind soul has mailed me this reply for the bugs in CView.
 Since he isn't in the position to post this himself, he asked me to post
 it for him, but to leave his name out. So here it comes:
 
@@ -1823,7 +1822,7 @@ hi-lighter square.  Incredibly annoying when it could do them all at once
 when it gets the directory info.  And really, how much effort does it take to
 sort a directory listing?
 "
-111,comp.graphics,"gnuplot, etc. make it easy to plot real valued functions of 2 variables
+110,comp.graphics,"gnuplot, etc. make it easy to plot real valued functions of 2 variables
 but I want to plot functions whose values are 2-vectors. I have been 
 doing this by plotting arrays of arrows (complete with arrowheads) but
 before going further, I thought I would ask whether someone has already
@@ -1831,7 +1830,7 @@ done the work. Any pointers??
 
 thanx in advance
 "
-112,comp.graphics," 
+111,comp.graphics," 
      If you have the GRASP animation system, then yes, it's quite easy.
 You simply use GLIB to extract the image (each ""frame"" in a .GL is
 actually a complete .PCX or .CLP file), then use one of MANY available
@@ -1844,20 +1843,20 @@ from most mail-order companies I've seen.  And no, I don't have it.  :)
  
                                                Corey Webb
  "
-113,comp.graphics,"Has anyone successfully converted Interleaf graphics to CGM, or even heard
+112,comp.graphics,"Has anyone successfully converted Interleaf graphics to CGM, or even heard
 of it being done????
 
 
 We'd love to hear about it.
 
 -Mike McConnell"
-114,comp.graphics,"Hi, netters
+113,comp.graphics,"Hi, netters
 
 I am looking for source code that can reads the ascii file
 or bitmap file and produced the thinned image.
 For example, to preprocess the character image I want to
 apply thinning algorithm."
-115,comp.graphics,"
+114,comp.graphics,"
 Why would it have to be much faster (it probably is) ? Assuming an ARM
 is about as efficient as a MIPS R3000 for integer calculations, doing
 a Compact-Video-like digital video codec is an easy task. For Software
@@ -1866,7 +1865,7 @@ it), we get 48 frames/sec. at 320x240 on a DECstation 5000/200. That
 machine has a 25 Mhz MIPS R3000. 
 
 		Burkhard Neidecker-Lutz"
-116,comp.graphics,"
+115,comp.graphics,"
 	The VESA standard can be requested from VESA:
 	VESA
 	2150 North First Street, Suite 440
@@ -1897,7 +1896,7 @@ machine has a 25 Mhz MIPS R3000.
 	Your best bet is to write VESA for the info.  There have also
 	been announcements on this group of VESA software.
 "
-117,comp.graphics,"Hi.  I'm writing a program to convert .dxf files to a database
+116,comp.graphics,"Hi.  I'm writing a program to convert .dxf files to a database
 format used by a 3D graphics program I've written.  My program stores
 the points of a polygon in CCW order.  I've used 3D Concepts a 
 little and it seems that the points are stored in the order
@@ -1914,7 +1913,7 @@ in the DXF file, one stored CW and the other CCW.  But that
 doubles the number of polygons and decreases speed...
 
 Thanks in advance for any help,"
-118,comp.graphics,"Hi,
+117,comp.graphics,"Hi,
 	would someone please email the new AVI file
 	format.  I'm sure that many people would 
 like to know what it is exactly.
@@ -1926,7 +1925,7 @@ Mark Gregory Lecturer m.gregory@rmit.edu.au PH(03)6603243 FAX(03)6621060
 Royal Melbourne Institute of Technology,
 Department of Communication and Electronic Engineering,
 P.O. Box 2476V, Melbourne, Victoria, 3001. AUSTRALIA."
-119,comp.graphics,": 8~> I require BGI drivers for Super VGA Displays and Super XVGA Displays. Does 
+118,comp.graphics,": 8~> I require BGI drivers for Super VGA Displays and Super XVGA Displays. Does 
 : 8~> anyone know where I could obtain the relevant drivers ? (FTP sites ??)
 
 : 	I would like to know too!
@@ -1950,18 +1949,18 @@ Clark Verbrugge
 clump@cs.mcgill.ca
 
 --"
-120,comp.graphics,"Read Issue #2 of Wired Magazine.  It has a long article on the ""hype"" of
+119,comp.graphics,"Read Issue #2 of Wired Magazine.  It has a long article on the ""hype"" of
 3DO.  I've noticed that every article talks with the designers and how
 ""great"" it is, but never show any pictures of the output (or at least
 pictures that one can understand)
 
 "
-121,comp.graphics,"Sorry for the repeat of this request, but does anyone know of a good
+120,comp.graphics,"Sorry for the repeat of this request, but does anyone know of a good
 free/shareware program with which I can create ray-traces and save
 them as bit-mapped files?  (Of course if there is such a thing =)
 
 Thanks in advance"
-122,comp.graphics,"There is a new version of the RTrace ray-tracing package (8.2.0) at
+121,comp.graphics,"There is a new version of the RTrace ray-tracing package (8.2.0) at
 asterix.inescn.pt [192.35.246.17] in directory pub/RTrace.
 Check the README file.
 
@@ -2028,7 +2027,7 @@ There are also demo scenes, manuals and all the source code...
 
 Please feel free to get it and use it.
 Hope you like it."
-123,comp.graphics,"CALL FOR PRESENTATIONS
+122,comp.graphics,"CALL FOR PRESENTATIONS
 	
       NAVY SCIENTIFIC VISUALIZATION AND VIRTUAL REALITY SEMINAR
 
@@ -2090,7 +2089,7 @@ David Taylor Model Basin - CDNSWC |       or: lip@ocean.dt.navy.mil
 Computational Signatures and      | Voicenet: (301) 227-3618
    Structures Group, Code 2042    | Factsnet: (301) 227-5753
 Bethesda, Maryland  20084-5000    | Phishnet: stockings@long.legs"
-124,comp.graphics,"I am currently looking for a 3D graphics library that runs on MS
+123,comp.graphics,"I am currently looking for a 3D graphics library that runs on MS
 Windows 3.1.  Are there any such libraries out there other than
 Visuallib?  (It must run on VGA and should not require any other
 add-on graphics cards).
@@ -2101,7 +2100,7 @@ email contact for the author of Visuallib?
 Any help would be much appreciated.  Thanks.
 
 "
-125,comp.graphics,"
+124,comp.graphics,"
 Look for edge inconsistencies.  Consider two vertices, p and q, which
 are connected by at least one edge.
 
@@ -2134,7 +2133,7 @@ which way is OUT is left as an exercise...
 
 
 "
-126,comp.graphics,"
+125,comp.graphics,"
 I certainly do use it whenever I have to do TIFF, and it usually works
 very well.  That's not my point.  I'm >philosophically< opposed to it
 because of its complexity.
@@ -2166,11 +2165,11 @@ image, that means there are some it won't- some that I might have to
 deal with.  Why would I want my images to be trapped in that format?  I
 don't and neither should anyone who agrees with my reasoning- not
 that anyone does, of course! :-)"
-127,comp.graphics,"Does anyone know of software that will allow
+126,comp.graphics,"Does anyone know of software that will allow
 you to convert CorelDraw (.CDR) files
 containing bitmaps to SCODAL, as this is the
 only format our bureau's filmrecorder recognises."
-128,comp.graphics,"Hi again,
+127,comp.graphics,"Hi again,
 
 Many thanks to all the people who responded to my request for a MS-
 Windows screen grabber.  It proves to me AGAIN that the net is a 
@@ -2191,7 +2190,7 @@ Again, thanks for the info...
 
 Grant (the MS-Windows newbie -- Unix and X are my bag ;-)
 "
-129,comp.graphics,"
+128,comp.graphics,"
 
 
 
@@ -2207,7 +2206,7 @@ the brighter side and darker on the darker side.
 
 --Andre
 "
-130,comp.graphics,"Hi! Everyone,
+129,comp.graphics,"Hi! Everyone,
 
 Because no one has touched the problem I posted last week, I guess
 my question was not so clear. Now I'd like to describe it in detail:
@@ -2242,7 +2241,7 @@ Why not an ellipse? And why not its offset?
 Please post here and let the others share our interests 
 (I got several emails from our netters, they said they need the
 summary of the answers)."
-131,comp.graphics,"For some reason I never saw the original post on this thread, but if you are
+130,comp.graphics,"For some reason I never saw the original post on this thread, but if you are
 looking for fast polygon routines on vga on a PC, you really can't go past
 the mode X stuff from Dr Dobbs. This code is all p.domain (as far as I know),
 and in the original articles, the routines were all presented as dumb vga
@@ -2250,12 +2249,12 @@ routines, and then optimised to modeX with some interesting discussion along
 the way.
 If you are interested, I could find out more details of the issues in question,
 (I have them at home)."
-132,comp.graphics,"
+131,comp.graphics,"
 ...for very small values of six and nine."
-133,comp.graphics,"
+132,comp.graphics,"
  Can You report CRT and other register state in this mode ?
  Thank's."
-134,comp.graphics,"
+133,comp.graphics,"
  I spoke with the author of MacWireFrame earlier today. The cost is $299, but there
  are no license royalties. His name is Eric Johnson in Sacramento, CA phone
  916/737-1550. He doesn't have email. Very nice guy... very knowledgeable about
@@ -2268,7 +2267,7 @@ If you are interested, I could find out more details of the issues in question,
  I'm not too sure about its geometry creation tools. I also need to look into this
  package some more. I also spoke with the author, Mark Owens, another nice
  guy that seems to know his business. The price is $249, no royalties."
-135,comp.graphics,"    Help!! I need code/package/whatever to take 3-D data and turn it into
+134,comp.graphics,"    Help!! I need code/package/whatever to take 3-D data and turn it into
 a wireframe surface with hidden lines removed. I'm using a DOS machine, and
 the code can be in ANSI C or C++, ANSI Fortran or Basic. The data I'm using
 forms a rectangular grid.
@@ -2276,7 +2275,7 @@ forms a rectangular grid.
 is a general interest question.
    Thank you!!!!!!
 "
-136,comp.graphics,"
+135,comp.graphics,"
   Hello, I know that this has been discussed before.  But at the time
 I didn't need to teselate a sphere.  So if any kind soul has the code
 or the alg, that was finally decided upon as the best (as I recall it
@@ -2285,7 +2284,7 @@ appreciative.
 							Thomas DeWeese
 deweeset@rdrc.rpi.edu
 "
-137,comp.graphics,"
+136,comp.graphics,"
 Why didn't you create 8 grey-level images, and display them for
 1,2,4,8,16,32,64,128... time slices?
 
@@ -2297,10 +2296,10 @@ timing, but drastically reduces the image-preparation time, no?
 
 
 "
-138,comp.graphics,"
+137,comp.graphics,"
 
 First, thanks to all who replied to my original question."
-139,comp.graphics,"For those who are interested in Ray Traced pictures, there is a nice example
+138,comp.graphics,"For those who are interested in Ray Traced pictures, there is a nice example
 on alt.binaries.pictures.misc. The file is called Poolball.gif. It shows a
 pooltable with... YES! ... poolballs!
 Resolution: 1024x768,  colours: 256 (only).
@@ -2317,20 +2316,20 @@ _Gerco_
 __cgschot@cs.ruu.nl__
 
 "
-140,comp.graphics,"
+139,comp.graphics,"
 Another source:  There's a poly blitter for mode y (mode x in 320x200)
 at sunee.uwaterloo.ca.  Also there is REND386, an even faster 3D
 renderer with VR extensions.
 
 
 --------------------------------------------------------------------------"
-141,comp.graphics,"-- 
+140,comp.graphics,"-- 
  |||||||||||   		 	   ||||||||||| 
 _|||||||||||_______________________|||||||||||_      jr0930@eve.albany.edu
 -|||||||||||-----------------------|||||||||||-     jr0930@Albnyvms.bitnet
  |||||||||||  GO HEAVY OR GO HOME  |||||||||||
 "
-142,comp.graphics,"I was chaining around in the anonymous ftp world looking for 3D Studio
+141,comp.graphics,"I was chaining around in the anonymous ftp world looking for 3D Studio
 meshes and other interesting graphical stuff for the program, and found
 a few files with the extension 3D2.  My 3DS v2.01 doesn't know this type
 of file, so what are they?
@@ -2340,7 +2339,7 @@ out there?   I would have thought that someone would have collected a few
 and put them somewhere, but alas I am without this knowledge.
 
 mucho appreciato"
-143,comp.graphics,"
+142,comp.graphics,"
 Yeah, Corel Draw and WordPerfect Presentations pretty limited here, too.
 	Since there's no (not really) such thing as a decent raster to
 vector conversion program, this ""tracing"" technique is about it.  Simple
@@ -2350,7 +2349,7 @@ bitmapped to vector conversion program would probably be as big as most
 of these application softwares we're using -- but even so, how come one
 hasn't been written? (to my knowledge).  I mean, even Hijaak, one of the
 commercial industry standards of file conversion, hasn't attempted it yet."
-144,comp.graphics,": Currently, I use a shareware program called Graphics Workshop.
+143,comp.graphics,": Currently, I use a shareware program called Graphics Workshop.
 : What kinds of things will Hijaak do that these shareware programs
 : will not do?
 
@@ -2359,23 +2358,23 @@ Hijaak has screen capture capabilities and acn convert to/from a couple of
 more file formats (don't know specifically which one).  In the April 13
 issue of PC Magazine they test the twelve best selling image capture/convert
 utilities, including Hijaak."
-145,comp.graphics,"Hi, can anyone direct me to map type gifs? 
+144,comp.graphics,"Hi, can anyone direct me to map type gifs? 
 
 I am interesting in cartography and would find
 these gifs useful.
 
 tia,
 "
-146,comp.graphics,"Has anybody made a converter from irit's .irt or .dat format to
+145,comp.graphics,"Has anybody made a converter from irit's .irt or .dat format to
  .pov format ?
 
 Thanks!
 "
-147,comp.graphics,"I have a problem with intersections between two surfaces.
+146,comp.graphics,"I have a problem with intersections between two surfaces.
 Does anybody have a easy to understand algorithm for that or maybe
 even C source??
 "
-148,comp.graphics,"I am working on a program to display 3d wireframe models with the user
+147,comp.graphics,"I am working on a program to display 3d wireframe models with the user
 being able to arbitrarily change any of the viewing parameters.  Also,
 the wireframe objects are also going to have dynamic attributes so
 that they can move around while the user is ""exploring"" the wireframe
@@ -2398,7 +2397,7 @@ direct me to a ftp site which contains the package.
 
 Thank you.
 "
-149,comp.graphics,"Hi!
+148,comp.graphics,"Hi!
 
 I am looking for the email address of the author to
 ""A Generic Solution to Polygon Clipping"", 
@@ -2414,20 +2413,20 @@ to the address. Any information is appreciated.
 Thank you very much.
 
 Best regards."
-150,comp.graphics,"
+149,comp.graphics,"
 How does that compare with JPEG on the same images and hardware as far
 as size, speed, and image quality are concerned?
 
 Despite my skeptical and sometimes nearly rabid postings
 criticizing Barnsley and company, I am very interested in the
 technique.  If I weren't I probably wouldn't be so critical. :-)"
-151,comp.graphics,"
+150,comp.graphics,"
 A 68070 is just a 68010 with a built in MMU.  I don't even think that Moto.
 manufactures them.
 
                                   - Ian Romanick
                                     Dancing Fool of Epsilon"
-152,comp.graphics,"I plan to post a summary of responses to this as soon as I have working
+151,comp.graphics,"I plan to post a summary of responses to this as soon as I have working
 code, which I will also include.  The intersection of 3 planes method
 looks best, but my implementation based on a short article in 
 Graphics Gems I doesn't work.  I may be misinterpreting, of course.
@@ -2455,7 +2454,7 @@ point if they are not parallel.
 Ed
 
 Thanks to all who answered so far."
-153,comp.graphics,"
+152,comp.graphics,"
 I've been given the sites of some excellent 3D objects on all sorts of file formats ...
 Here's where they are:
 
@@ -2475,7 +2474,7 @@ Host wuarchive.wustl.edu
     Location: /graphics/graphics/mirrors
       DIRECTORY drwxr-xr-x        512  Jan  3 06:29  avalon.chinalake.navy.mil
 "
-154,comp.graphics,"
+153,comp.graphics,"
 Yes, I do.  A couple of years ago, I did a comparison of the two
 products.  Some of this may have changed, but here goes.
 
@@ -2491,12 +2490,12 @@ are easily portable to other systems.
 
 I would be happy to elaborate further if you have more specific
 questions. "
-155,comp.graphics,"I would like a reference to an algorithm that can detect whether 
+154,comp.graphics,"I would like a reference to an algorithm that can detect whether 
 one closed curve bounded by some number of bezier curves lies completely
 within another closed curve bounded by bezier curves.
 
 Thanks."
-156,comp.graphics,"
+155,comp.graphics,"
 
 
 
@@ -2504,7 +2503,7 @@ Thanks."
 Ditto here too...
 
 "
-157,comp.graphics,"
+156,comp.graphics,"
 
 Why not use the PD C library for reading/writing TIFF files? It took me a
 good 20 minutes to start using them in your own app.
@@ -2513,7 +2512,7 @@ Martin
 
 --
 ---------------------------------------------------------------------------"
-158,comp.graphics,"
+157,comp.graphics,"
 OK, I don't use CView anymore, but I saw that no one had explaind this
 ""bug"" in the thread, so here goes:
 
@@ -2526,7 +2525,7 @@ and has destroyed data under other programs, not just CView.
 The only thing CView can do to improve the situation is to try not to leave
 files open unless it's actively using them (ie, reading and decoding).
 "
-159,comp.graphics,"I'm not sure if this is the correct place to ask this question.  If not,
+158,comp.graphics,"I'm not sure if this is the correct place to ask this question.  If not,
 please forgive me and point me in the right direction.
 
 Does anybody know of a program that converts .GIF files to .BMP files
@@ -2534,7 +2533,7 @@ and if so, where can I ftp it from?  Any help would be greatly
 appreciated.
 
 Please respond via e-mail as I do not read this group very often."
-160,comp.graphics,"
+159,comp.graphics,"
 
 Here at Lewis and Clark College we have recently installed a Digital Film
 system (based on the Mac Quadra) that does non-linear, full digital editing.
@@ -2579,7 +2578,7 @@ will look better.
 
 We use both Macs and Amigas for our video work.  Each for what each does best!
 "
-161,comp.graphics,"
+160,comp.graphics,"
 
 Hi, I've come across a fast triangle fill-draw routine for mode 13h.  By
 calling this routine enough times, you have a fast polygon drawing routine.
@@ -2589,14 +2588,14 @@ I have a copy of it so I reupload it there.  The triangle.txt file has this
 to say :
 
 "
-162,comp.graphics,"Yes, there are serveral programs which can convert font files (eq the Borland
+161,comp.graphics,"Yes, there are serveral programs which can convert font files (eq the Borland
 fonts) to objects consisting of spheres, cones etc. 
 I've used a program (forgot its name/place, but i can look for it) which
 converted these Borland fonts to three different raytracers. Vivid, POV and
 Polyray (which i like more (more flexibel/faster/use of expressions etc).
 The program has a lot nice features.
 So if interested give me a mail."
-163,comp.graphics,"Hi,
+162,comp.graphics,"Hi,
 
 My name is rahul and I am doing MS at USU, Logan
 My query is:
@@ -2616,7 +2615,7 @@ painful limit. besides I need the facility to display the true color images
 i will be generating on a true color system WITHOUT color 
 quantification.
 Please, if anyone can help i'd be obliged"
-164,comp.graphics,"Hi:
+163,comp.graphics,"Hi:
 
 I am digitizing a NTSC signal and displaying on a PC video monitor.
 It is known that the display response of tubes is non-linear and is
@@ -2632,14 +2631,14 @@ correct for ""gamma errrors""?
 Your response is much appreciated.
  
 Amjad."
-165,comp.graphics,"Are there any TIFF to anything programs out there for the IBM?
+164,comp.graphics,"Are there any TIFF to anything programs out there for the IBM?
 Our scanner works into TIFF, and I can view it on CSHOW 8.1, but 
 all of my other programs read errors.  Are there any basic Tiff to 
 JPEG, GIF, PCX, BMP, etc...?
 
 Thanks for the time...Email or post acceptable.
 Joshuaf"
-166,comp.graphics,"Hello,
+165,comp.graphics,"Hello,
 
 
 
@@ -2662,17 +2661,17 @@ send me mail.  Programming guide to SVGA card is also welcome.
 *                         Tiang   T.    Foo                            *
 *		      tiang@uokmax.ecn.uoknor.edu 		       *
 ************************************************************************    "
-167,comp.graphics,"
+166,comp.graphics,"
 Scott,
 	I'm not so sure if this is helpful, but I usually use XV v2.21.  I use Sun IPCs and IPXs, and it works fine.  It can display in a good number of ways.(root being one of them)  It's also possible to have XV put up a background automatically at login.  Hope this helps.
 
 Jason Weiler
 <weilej@rpi.edu>"
-168,comp.graphics,"A shareware graphics program called Pman has a filter that makes a picture
+167,comp.graphics,"A shareware graphics program called Pman has a filter that makes a picture
 look like a hand drawing.  This picture could probably be converted into
 vector format much easier because it is all lines. (With Corel Trace, etc..)
 "
-169,comp.graphics,"Recently I saw the latest Computer Shopper and in it there was an article
+168,comp.graphics,"Recently I saw the latest Computer Shopper and in it there was an article
 on nice shareware graphics programs. They looked pretty good and of the 6
 listed in the article, one I had (Graphics Workshop), one I found via
 archie (Draft Choice - old version though) and the rest I couldn't find.
@@ -2686,10 +2685,10 @@ Neopaint: NEOPNT.ZIP
 
 Thanx in advance.
 D.PETRO "
-170,comp.graphics,"I've recently got hold of a PC with an S3 card in it, and I'd like to do some
+169,comp.graphics,"I've recently got hold of a PC with an S3 card in it, and I'd like to do some
 C programming with it, are there any libraries out there that will let me
 access the high resolution modes available via Borland Turbo C?"
-171,comp.graphics,"
+170,comp.graphics,"
 
 
 I sure did use version 3.2. It works fine with most software but NOT
@@ -2701,7 +2700,7 @@ So I hope the author can fix that.
 
 
 "
-172,comp.graphics,"I'm working upon a game using an isometric perspective, similar to
+171,comp.graphics,"I'm working upon a game using an isometric perspective, similar to
 that used in Populous.  Basically, you look into a room that looks
 similar to the following:
 
@@ -2782,11 +2781,11 @@ hanging on the walls) will dispell any visual ambiguity.
 
 Thanks in advance for any help.
 "
-173,comp.graphics,"
+172,comp.graphics,"
 The best program I've seen for viewing such files is VPIC.  You'll want version 5.9 or later.  (6.0x is current.)  It allows you to view in 15 and 24 bit modes.  It really is QUITE nice.
 
 Now, for a return question:  Do you run Windows?  If so, what are the dates on your drivers?  The newest ones *I* can find are from around 4-??-92!!  My problem is they conflict with Star Trek: After Dark, and other things as well.  I'm willing to bet that it's the drivers, and NOT the programs.  Anyone out there have info on newer SS24 (NOT X) drivers for windows or OS/2?"
-174,comp.graphics,"
+173,comp.graphics,"
 Why so up tight?  FOr that matter, TIFF6 is out now, so why not gripe
 about its problems?  Also, if its so important to you, volunteer to
 help define or critique the spec.
@@ -2795,7 +2794,7 @@ Finally, a little numerology:  42 is 24 backwards, and TIFF is a 24 bit
 image format...
 
 Chris"
-175,comp.graphics,"G'day all,
+174,comp.graphics,"G'day all,
 
 Can anybody point me at a utility which will read/convert/crop/whatnot/
 display HDF image files ? I've had a look at the HDF stuff under NCSA 
@@ -2821,7 +2820,7 @@ Markus Buchhorn, Parallel Computing Research Facility
 email = markus@octavia.anu.edu.au
 Australian National University, Canberra, 0200 , Australia.
 [International = +61 6, Australia = 06] [Phone = 2492930, Fax = 2490747]"
-176,comp.graphics,": |> 
+175,comp.graphics,": |> 
 : |>         Is there any way to connect two pointing devices to one serial
 : |>         port? I haven't tried this but I believe they would interfere
 : |>         with each other (?) even if only one at a time would be used.
@@ -2837,22 +2836,22 @@ modem to be say, com1, and your external modem to be com3.  You really
 shouldn't have to worry about interrupt conflicts since you won't be using
 both modems at the same time :).
 "
-177,comp.graphics,"
+176,comp.graphics,"
 
 please tell me where you where you FTP'd this from? I would like to have
 a copy of it. (I would have mailed you, but your post indicates you have no mail
 address...)
 "
-178,comp.graphics,"Look in the /pub/SPACE directory on ames.arc.nasa.gov - there are a number
+177,comp.graphics,"Look in the /pub/SPACE directory on ames.arc.nasa.gov - there are a number
 of earth images there. You may have to hunt around the subdirectories as
 things tend to be filed under the mission (ie, ""APOLLO"") rather than under	
 the image subject.	"
-179,comp.graphics,"Please , I need the starting address (pointer) for the beginning 
+178,comp.graphics,"Please , I need the starting address (pointer) for the beginning 
 of the color information (RGB) on VGA mode 68h (that's 68 hex, gee, 
 duh!)...
 
 Thanks SOOOO much (hugs and kisses) in advance....."
-180,comp.graphics,"Hi,
+179,comp.graphics,"Hi,
 
 I'm interested in writing a program to generate a SIRD picture, you know
 the stereogram where you cross your eyes and the picture becomes 3D.
@@ -2862,21 +2861,21 @@ Does anyone have one or know where I can get one?
 Please e-mail to steveq@sndcrft.DIALix.oz.au with any replies.
 
 Many thanks for your help."
-181,comp.graphics,"This may be a fairly routine request on here, but I'm looking for a fast
+180,comp.graphics,"This may be a fairly routine request on here, but I'm looking for a fast
 polygon routine to be used in a 3D game.  I have one that works right now, but
 its very slow.  Could anyone point me to one, pref in ASM that is fairly well
 documented and flexible?
 	Thanx,
             //Lucas.
 "
-182,comp.graphics,"Update on location!!
+181,comp.graphics,"Update on location!!
 
 Directory should be:
 public/virtual-worlds!!
 ^^^^^^
 
 Sorry! :-)"
-183,comp.graphics,"I have the need for displaying 2 1/2 D surfaces under X, using only
+182,comp.graphics,"I have the need for displaying 2 1/2 D surfaces under X, using only
 Xlib, Xt and Xm.  Does anyone know of a package, available on internet,
 which will be able to do the work?
 
@@ -2887,7 +2886,7 @@ various platforms, from SGIs to i486s (UNIX).
 
    Any help will be appreciated.
 "
-184,comp.graphics,"
+183,comp.graphics,"
 Yes, but... shouldn't size of newsgroup be an issue?  Sorry if this
 has been covered before, but comp.grahpics.animation get how much 
 traffic per day?  50 articles?  Maybe 70 on an extremely heavy day?
@@ -2895,7 +2894,7 @@ I've been following this group for about four months now, and I don't
 recall ever seeing such a flood of posts that a split would be warranted.
 
 Just my 2 cents,"
-185,comp.graphics,"I would like to program Tseng ET4000 to nonstandard 1024x768 mode by
+184,comp.graphics,"I would like to program Tseng ET4000 to nonstandard 1024x768 mode by
 switching to standard 1024x768 mode using BIOS and than changing some
 timing details (0x3D4 registers 0x00-0x1F) but I don't know how to
 select 36 MHz pixel clock I need. The BIOS function selects 40 MHz.
@@ -2905,7 +2904,7 @@ I am also interested in any other technical information about Tseng ET4000
 and Trident 8900 and 9000 chipsets.
 
 			thanks very much"
-186,comp.graphics,"Dear Binary Newsers,
+185,comp.graphics,"Dear Binary Newsers,
 
 I am looking for Quick C or Microsoft C code for image decoding from file for
 VGA viewing and saving images from/to GIF, TIFF, PCX, or JPEG format. I have
@@ -2915,7 +2914,7 @@ TSR. It must be out there, and there's no need to reinvent the wheel.
 Thanx in advance.
 
 //////////////"
-187,comp.graphics,"Does anyone know of a site where I could ftp some RenderMan shaders?
+186,comp.graphics,"Does anyone know of a site where I could ftp some RenderMan shaders?
 Or of a newsgroup which has discussion or information about RenderMan?  I'm
 new to the RenderMan (Mac) family, and I'd like to get as much info I can
 lay my hands on.  Thanks!
@@ -2925,7 +2924,7 @@ lay my hands on.  Thanks!
 
 ---------------------------------------------------------------------------
 Andy Bates."
-188,comp.graphics,"
+187,comp.graphics,"
 I used this combination for a while - A QCR-Z recorder,
 I think - and as far as I remember Corel can EXPORT in
 SCODAL (.scd) format.  Just select 'EXPORT' on the main
@@ -2946,7 +2945,7 @@ shape of the object being filled!!!
 
 Of course, if the recorder isn't a QCR, you can ignore all
 this and feel suitably :-)"
-189,comp.graphics,"Does anybody know if there are any good 2d-graphics packages
+188,comp.graphics,"Does anybody know if there are any good 2d-graphics packages
 	available for IBM RS/6000 & AIX ? I'm looking for something
 	like DEC's GKS or Hewlett-Packards Starbase, both of which
 	have reasonably good support for different output devices
@@ -2963,7 +2962,7 @@ this and feel suitably :-)"
 		Ari
 
 ---"
-190,comp.graphics,"
+189,comp.graphics,"
 
 I'd be happy to US (international) Snail mail technical information on
 imaging databases to anyone who needs it, if you can provide me with your
@@ -2972,7 +2971,7 @@ Oracle, Ingres, Adabas, Sybase, and Gupta, regarding our imaging
 databases installed.  (We have over 1,000 installed and in production now;
 most of the new ones going in are on Novell LANs, the RS/6000, and now HP
 Unix workstations.)  We work with Visual Basic too."
-191,comp.graphics,"I think you are too optimistic! PostScript is a very big language and
+190,comp.graphics,"I think you are too optimistic! PostScript is a very big language and
 so the fig format can not be able to be an interpreter of ANY arbitrary
 ps code. The only program I know to manipulate PostScript files is
 IslandDraw.
@@ -2981,7 +2980,7 @@ epsi format). Small changes then are possible (erasing some letters,
 adding text and so on).
 Reinhard
 "
-192,comp.graphics,": : 42 is 101010 binary, and who would forget that its the
+191,comp.graphics,": : 42 is 101010 binary, and who would forget that its the
 : : answer to the Question of ""Life, the Universe, and Everything else.""
 : : Of course the Question has not yet been discovered...
 : ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -3014,7 +3013,7 @@ Chew on that for awhile... :)
 --
 Chris Russell            Custom software, networks, CASE tools, and consulting
 Adaptive Solutions       Sun SPARC, SGI IRIS, HP Apollo, Macintosh, & PC"
-193,comp.graphics,"I'm currently looking for information about different graphics
+192,comp.graphics,"I'm currently looking for information about different graphics
 formats, especially PPM, PCX BMP and perhaps GIF.
 Does anyone know if there exist any files at some site
 that describes these formats ???
@@ -3022,12 +3021,12 @@ that describes these formats ???
 Thanks !
 
 "
-194,comp.graphics,"Apparently, my editor didn't do what I wanted it to do, so I'll try again.
+193,comp.graphics,"Apparently, my editor didn't do what I wanted it to do, so I'll try again.
 
 i'm looking for any programs or code to do simple animation and/or
 drawing using fractals in TurboPascal for an IBM
               Thanks in advance"
-195,comp.graphics,": >over where it places its temp files: it just places them in its
+194,comp.graphics,": >over where it places its temp files: it just places them in its
 : >""current directory"".
 
 : I have to beg to differ on this point, as the batch file I use
@@ -3039,7 +3038,7 @@ This is what I posted that cview uses the root directory of the drive
 cview is on.  However, since It has so much trouble reading large files
 from floppy, I suspect that it uses the root directory of the drive the
 image files are on."
-196,comp.graphics,"I am involve in a Distant Learning project and am in need
+195,comp.graphics,"I am involve in a Distant Learning project and am in need
 of Jpeg and Mpeg encode/decode source and object code.
 This is a NOT-FOR PROFIT project that once completed I
 hope to release to other educational and institutional
@@ -3075,19 +3074,19 @@ epimntl@world.std.com
 ed.pimentel@gisatl.fidonet.org
 
 "
-197,comp.graphics,"
+196,comp.graphics,"
 But the Question was later revealed to be:  What is 9 x 6?  (In the
 base 13 system, of course.)
 
 "
-198,comp.graphics,"Actually I am trying to write something like this but I encounter some
+197,comp.graphics,"Actually I am trying to write something like this but I encounter some
 problems, amongst them:
 
 - drawing a 3d wireframe view of a quadric/quartic requires that you have
 the explicit equation of the quadric/quartic (x, y, z functions of some
 parameters). How to convert the implicit equation used by PoV to an
 explicit one? Is it mathematically always possible?"
-199,comp.graphics,"
+198,comp.graphics,"
 
 	The newspaper itself is almost certainly copyrighted in its
 entirety.  Newspapers generally employ legal staffs which make sure
@@ -3095,6 +3094,21 @@ they get permission to use a copyrighted image or text.  Did you
 do the same?
 -- 
 -John"
+199,comp.graphics,"
+That's closer, but I dislike ""apps"".  ""software"" (vs. ""hardware"")
+would be better.  Would that engulf alt.graphics.pixutils?  Or would
+that be ""programmer""?
+
+I don't know if traffic is really heavy enough to warrant a newsgroup
+split.  Look how busy comp.graphics.research is (not).
+
+It's true that a lot of the traffic here is rehashing FAQs and
+discussing things that would probably be better diverted to
+system-specific groups, but I don't know whether a split would help
+or hurt that cause.
+
+Maybe we need a comp.graphics.RTFB for all those people who can't be
+bothered to read the fine books out there.  Right, Dr. Rogers? :-)"
 200,rec.sport.baseball,"The Phillies were picked to be in first.
 Someone replied that the people who picked them were the same people who
 picked the Mets last year.

@@ -3,7 +3,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 
 
 def create_tfidf_matrix(
-    input_file="data/processed_documents.csv",
+    input_file="data/processed_documents.csv"
 ):
     # Load processed documents
     df = pd.read_csv(input_file)
@@ -18,7 +18,7 @@ def create_tfidf_matrix(
         max_df=0.95
     )
 
-    # Convert documents into TF-IDF matrix
+    # Convert documents into a TF-IDF matrix
     tfidf_matrix = vectorizer.fit_transform(documents)
 
     # Get vocabulary
@@ -30,10 +30,7 @@ def create_tfidf_matrix(
     print("Matrix shape:", tfidf_matrix.shape)
     print("Non-zero values:", tfidf_matrix.nnz)
 
-    print("\nFirst 20 terms:")
-    print(feature_names[:20])
-
-    return tfidf_matrix, vectorizer
+    return tfidf_matrix, vectorizer, df
 
 
 if __name__ == "__main__":

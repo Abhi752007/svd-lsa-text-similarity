@@ -1,69 +1,52 @@
 import pandas as pd
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.decomposition import TruncatedSVD
 from sklearn.metrics.pairwise import cosine_similarity
 
 
 def find_similar_documents(
+    latent_matrix,
     input_file="data/processed_documents.csv",
     document_index=0,
-    n_components=100,
     top_n=5
 ):
-    # Load processed documents
+    # Load processed documents so we can display
+    # the category and text of the results.
     df = pd.read_csv(input_file)
 
-    documents = df["processed_text"]
-
-    # Create TF-IDF matrix
-    vectorizer = TfidfVectorizer(
-        stop_words="english",
-        min_df=2,
-        max_df=0.95
-    )
-
-    tfidf_matrix = vectorizer.fit_transform(documents)
-
-    # Apply SVD
-    svd = TruncatedSVD(
-        n_components=n_components,
-        random_state=42
-    )
-
-    latent_matrix = svd.fit_transform(tfidf_matrix)
-
-    # Calculate similarity between the selected document
-    # and every other document
+    # Calculate cosine similarity between the selected
+    # document and every document in the latent space.
     similarities = cosine_similarity(
         latent_matrix[document_index].reshape(1, -1),
         latent_matrix
     )[0]
 
-    # Create a copy of the similarities
+    # Create a copy of the document data.
     results = df.copy()
+
+    # Add the similarity score for every document.
     results["similarity"] = similarities
 
-    # Remove the document itself
+    # Remove the query document itself.
     results = results[results.index != document_index]
 
-    # Sort by similarity
+    # Sort from highest similarity to lowest similarity.
     results = results.sort_values(
         by="similarity",
         ascending=False
     )
 
+    # Display the query document.
     print("Query document:")
     print(df.iloc[document_index]["processed_text"][:500])
 
     print("\nTop similar documents:\n")
 
-    for rank, (_, row) in enumerate(results.head(top_n).iterrows(), start=1):
+    # Display the top results.
+    for rank, (_, row) in enumerate(
+        results.head(top_n).iterrows(),
+        start=1
+    ):
         print(f"Rank {rank}")
         print(f"Category: {row['category']}")
         print(f"Similarity: {row['similarity']:.4f}")
         print(f"Text: {row['processed_text'][:200]}")
         print("-" * 60)
-
-
-if __name__ == "__main__":
-    find_similar_documents()
