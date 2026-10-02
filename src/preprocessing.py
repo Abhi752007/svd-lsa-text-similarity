@@ -34,6 +34,9 @@ def preprocess_dataset(input_file="data/documents.csv",
     # Apply preprocessing to every document
     df["processed_text"] = df["text"].apply(preprocess_text)
 
+    # Remove documents that became empty after preprocessing
+    df = df[df["processed_text"].str.strip() != ""]
+
     # Keep only the information we need
     processed_df = df[["document_id", "category", "processed_text"]]
 
